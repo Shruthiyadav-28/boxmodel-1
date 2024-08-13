@@ -1,0 +1,36 @@
+body{
+    margin:10px 20px 30px 20px;
+    padding:10px;
+    width:1500px;
+    color:black;
+    border-style:solid;
+}
+.container{
+    height:450px;
+    background-color:pink;
+    width:100px;
+    display:inline-block;
+    padding:10px;
+}
+.container{
+    height:450px;
+    background-color:pink;
+    width:100px;
+    display:inline-block;
+    padding:30px;
+}
+.container{
+    height:450px;
+    background-color:pink;
+    width:100px;
+    display:inline-block;
+    padding:30px;
+}
+.container{
+    height:450px;
+    background-color:pink;
+    width:100px;
+    display:inline-block;
+    vertical-align: top;
+    padding:120px;
+}
